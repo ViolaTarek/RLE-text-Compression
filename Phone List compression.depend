@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1519630723 source:c:\users\nb lenovo\desktop\assignment1\phone list compression\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<cstdlib>
+	<cstring>
+	<sstream>
+
